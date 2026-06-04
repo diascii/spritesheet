@@ -53,3 +53,7 @@ app.*.map.json
 
 .antigravitycli/
 screenshot/
+
+agents.md
+maestro/
+.maestro/
