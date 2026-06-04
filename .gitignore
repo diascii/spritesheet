@@ -50,3 +50,6 @@ app.*.map.json
 .gemini/
 .graphify/
 .opencode/
+
+.antigravitycli/
+screenshot/
