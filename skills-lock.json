@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "flutter-flame-games": {
+      "source": "mauriciog87/flutter-agent-skill",
+      "sourceType": "github",
+      "skillPath": "flutter-flame-games/SKILL.md",
+      "computedHash": "881e6d3c7ca9c42f1d089ae8efe277f11d962713f169ec547f0998ca1d238bff"
+    }
+  }
+}
